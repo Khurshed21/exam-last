@@ -65,6 +65,7 @@ const Home = () => {
 
         </div>
 
+
         <div className=' dark:bg-slate-900 dark:text-[white] flex flex-wrap justify-around items-center pt-[50px] pb-[50px]'>
            <div className='xl:w-[400px] w-[700px]'>
            <h1 className='text-[40px] font-[600]'>{t("abs")}</h1>
